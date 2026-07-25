@@ -1,7 +1,9 @@
 # Distributor Sales Performance Review — Findings
 
 **Data:** UCI Online Retail II. UK-based wholesale distributor, 794,166 transaction lines across 5,875 accounts and 4,634 products, December 2009 – December 2011.
-**Dashboard:** [https://datastudio.google.com/reporting/a1d47190-af85-41b7-8db9-f9ea68706a13]
+**Dashboard:** https://datastudio.google.com/reporting/a1d47190-af85-41b7-8db9-f9ea68706a13
+**Analysis:** https://github.com/Akash-Gutti/distributor-sales-review/blob/main/sql/analysis.sql
+
 
 ---
 
